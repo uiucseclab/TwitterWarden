@@ -8,3 +8,8 @@ stuff/**
 .DS_Store
 *.json
 *.csv
+*.out
+*.log
+*.aux
+*.bbl
+*.blg
