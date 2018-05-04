@@ -1,0 +1,10 @@
+credentials.py
+oauth.py
+token.txt
+*.pyc
+bot_data/**
+real_data/**
+stuff/**
+.DS_Store
+*.json
+*.csv
